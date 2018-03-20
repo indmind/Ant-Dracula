@@ -673,7 +673,7 @@ StScrollBar {
 
 /* TOP BAR */
 #panel {
-  background-color: rgba(18, 19, 25, 0.95);
+  background-color: #282a36;
   /* transition from solid to transparent */
   transition-duration: 500ms;
   font-weight: bold;
@@ -709,7 +709,7 @@ StScrollBar {
     #panel .panel-button .popup-menu-arrow {
       icon-shadow: 0px 0px 2px rgba(0, 0, 0, 0.9); }
     #panel .panel-button:hover {
-      background: rgba(40, 42, 54, 0.95);
+      background: rgba(0, 0, 0, 0.12);
       color: white;
       text-shadow: 0px 0px 8px black; }
       #panel .panel-button:hover .system-status-icon,
@@ -717,7 +717,7 @@ StScrollBar {
       #panel .panel-button:hover .popup-menu-arrow {
         icon-shadow: 0px 0px 8px black; }
     #panel .panel-button:active, #panel .panel-button:overview, #panel .panel-button:focus, #panel .panel-button:checked {
-      background: rgba(40, 42, 54, 0.95);
+      background: #3e4153;
       box-shadow: inset 0 -2px 0px #1ab8ff;
       color: white; }
       #panel .panel-button:active > .system-status-icon, #panel .panel-button:overview > .system-status-icon, #panel .panel-button:focus > .system-status-icon, #panel .panel-button:checked > .system-status-icon {

@@ -89,10 +89,12 @@
 }
 
 .window-frame.maximized {
+    padding: 0px;
     border-radius: 0;
 }
 
 .window-frame.tiled  {
+    padding: 0px;
     border-radius: 0;
 }
 

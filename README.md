@@ -1,7 +1,13 @@
 
 ![](Art/logo.png)
 
+## Original
+
 ![](Art/Dracula.png)
+
+## Edited
+
+![](Art/edit.png)
 
 
 #### Installation
